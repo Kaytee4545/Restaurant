@@ -29,10 +29,7 @@ body
 .brand
 {
     border-radius: 50%;
-    width: 100%;
-    height: 100px;
-    margin-left: 20%;
-
+    height: 15vh;
 }
 .nav-link
 {
@@ -465,7 +462,7 @@ h2
   }
   #delicious_food, #make-a-reservation, #footer, #top_side
   {
-    width: 100vw
+    width: 115vw;
   }
   
   .filter-btn
