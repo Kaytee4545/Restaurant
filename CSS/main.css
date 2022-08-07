@@ -511,6 +511,22 @@ h2
   }
 
 }
+@media only screen and ( max-width: 992px){
+  .navbar-collapse
+  {
+    position: absolute; 
+    background-color: rgba(0,0,0,0.5);
+    z-index: 99999;
+    top:  70%;
+    width: 30%;
+    height: 55vh;
+  }
+  .navbar 
+  {
+  position: relative;
+  }
+
+}
 
 @media only screen and ( max-width: 992px) and (min-width: 677px){
  
