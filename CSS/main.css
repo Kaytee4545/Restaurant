@@ -413,12 +413,16 @@ h2
   }
   .pages-img
   {
-      width:  73vw;
+     width:  55vw;
+      height: 20vh;
       
   }
   .flex-container
   {
-    padding: 50px 60px;
+    padding-top: 50px;
+    padding-left: 95px;
+    padding-right: 65px;
+    padding-bottom: 30px;
   }
   .food-heading{
     font-size: 1.7rem;
@@ -467,7 +471,15 @@ h2
   
   .filter-btn
   {
-    padding: 0.375rem 0;
+    padding: 0.375rem 0.3rem;
+  }
+  .special_features_text {
+    padding-top: 15px;
+    padding-left: 70px;
+  }
+  .cards_container
+  {
+    padding-left: 40px;
   }
   
  
