@@ -413,7 +413,7 @@ h2
   }
   .pages-img
   {
-     width:  60vw;
+     width:  65vw;
       height: 20vh;
       
   }
@@ -437,7 +437,7 @@ h2
   .food-container
   {
       padding: 1rem 3rem 0 0;
-      margin:1rem 1.2rem;
+     margin-left: 4.5rem;
       top: 9%;
   }
   #make-a-reservation
